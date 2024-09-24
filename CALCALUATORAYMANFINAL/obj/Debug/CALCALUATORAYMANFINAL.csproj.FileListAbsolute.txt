@@ -1,0 +1,14 @@
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\bin\Debug\CALCALUATORAYMANFINAL.exe.config
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\bin\Debug\CALCALUATORAYMANFINAL.exe
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\bin\Debug\CALCALUATORAYMANFINAL.pdb
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\obj\Debug\CALCALUATORAYMANFINAL.csproj.AssemblyReference.cache
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\obj\Debug\MainWindow.baml
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\obj\Debug\MainWindow.g.cs
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\obj\Debug\App.g.cs
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\obj\Debug\CALCALUATORAYMANFINAL_MarkupCompile.cache
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\obj\Debug\CALCALUATORAYMANFINAL.g.resources
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\obj\Debug\CALCALUATORAYMANFINAL.Properties.Resources.resources
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\obj\Debug\CALCALUATORAYMANFINAL.csproj.GenerateResource.cache
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\obj\Debug\CALCALUATORAYMANFINAL.csproj.CoreCompileInputs.cache
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\obj\Debug\CALCALUATORAYMANFINAL.exe
+C:\Users\Ayyman\Desktop\reste\CALCALUATORAYMANFINAL\obj\Debug\CALCALUATORAYMANFINAL.pdb
